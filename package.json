@@ -1,0 +1,15 @@
+{
+  "name": "autonum_generator",
+  "version": "0.0.1",
+  "description": "a way to get autonumbered values. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "author": "Robert LaMarca <robertmlamarca@yahoo.com> (http://www.northbylowereast.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdoc": "^3.3.0-beta1",
+    "mocha": "^2.1.0"
+  }
+}
