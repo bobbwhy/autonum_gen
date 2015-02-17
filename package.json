@@ -8,6 +8,10 @@
   },
   "author": "Robert LaMarca <robertmlamarca@yahoo.com> (http://www.northbylowereast.com/)",
   "license": "ISC",
+  "repository":{ 
+  	 "type":"git",
+  	 "url":"https://github.com/bobbwhy/autonum_gen.git"
+  },
   "devDependencies": {
     "jsdoc": "^3.3.0-beta1",
     "mocha": "^2.1.0"
